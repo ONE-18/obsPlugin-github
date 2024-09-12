@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-github-show",
+    "name": "GitHub Show Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Un plugin que muestra datos de un repositorio de GitHub al hacer clic derecho sobre la URL del repositorio.",
+    "author": "ONE-18",
+    "authorUrl": "https://github.com/ONE-18",
+    "isDesktopOnly": true
+}
